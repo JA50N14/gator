@@ -13,9 +13,8 @@
 
 
 ## Command List
-*users -returns list of users and identifies which user you are logged in as
-*addfeed <name> <url> -adds a rss feed to your database
-*feeds -returns list of feeds in your database
-*follow <url> -add a feed from your database to your logged in users feed following list. If url does not exist in database, add feed first using addfeed command
-*unfollow <url> -unfollows a feed
-*browse <int> -Lists the number of posts you are following from newest to oldest based on publish date
+* users -returns list of users and identifies which user you are logged in as
+* addfeed <name> <url> -adds a rss feed to your database
+* feeds -returns list of feeds in your database
+* follow <url> -add a feed from your database to your logged in users feed following list. If url does not exist in database, add feed first using addfeed command
+* unfollow <url> -unfollows a feed
